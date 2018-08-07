@@ -28,6 +28,19 @@ const array = ['This', 'is', 'an', 'awesome', 'array']; // The array to check
 
 console.log(array.close('thiss', 3)); // => This
 ```
+#### Listing an Array
+```js
+require('array-utility'); // Require Array-Utility
+const array = ['This', 'is', 'an', 'awesome', 'array']; // The array to list
 
+console.log(array.list()); // => This, is, an, awesome and array
+``` 
+#### Trimming an Array
+```js
+require('array-utility'); // Require Array-Utility
+const array = ['This', 'is', 'an', 'awesome', 'array']; // The array to trim
+
+console.log(array.trim(2)); // => [ 'This', 'is', '3 more...' ]
+```
 > If you need any support, feel free to join https://discord.gg/SV7DAE9
 > You can support the creator at https://patreon.com/wessel
