@@ -1,0 +1,27 @@
+{
+  "name": "array-utility",
+  "version": "0.0.1",
+  "description": "Utility functions for arrays",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/PassTheWessel/ArrayUtil"
+  },
+  "author": "Wessel Tip <wessel@go2it.eu>",
+  "license": "MIT",
+  "private": false,
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "util",
+    "arrayutil",
+    "customarray",
+    "closest",
+    "chunk"
+  ]
+}
