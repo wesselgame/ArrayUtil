@@ -1,4 +1,5 @@
 # ArrayUtil v0.0.2
+[![npm version](https://badge.fury.io/js/array-utility.svg)](https://badge.fury.io/js/array-utility)
 Adds some utility functions to Arrays
 
 ## Installation
