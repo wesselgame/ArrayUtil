@@ -1,4 +1,4 @@
-# ArrayUtil v0.0.1
+# ArrayUtil v0.0.2
 Adds some utility functions to Arrays
 
 ## Installation
